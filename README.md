@@ -19,8 +19,8 @@ O projeto calcula a parte angular dos orbitais atômicos usando polinômios de L
 | Arquivo | Descrição |
 |---|---|
 | `quantica.py` | Cálculo dos polinômios de Legendre e visualização dos orbitais |
-| `quantica_modelo.py` | [descreva] |
-| `flor.py` | [descreva] |
+| `quantica_modelo.py` | Modelo teste |
+| `flor.py` | Nome e primeiro resultado |
 
 ## Tecnologias
 
